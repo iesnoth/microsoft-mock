@@ -21,3 +21,11 @@ section{
     text-align: center;
 }
 
+footer{
+    margin-top: 100px;
+}
+
+.footerlinks{
+    display: inline-block;
+    background-color: rgb(198, 202, 202);
+}
