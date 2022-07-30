@@ -1,3 +1,6 @@
+body{
+    text-align: center;
+}
 .icon{
     display: inline-block;
 }
@@ -10,5 +13,9 @@ section{
 }
 .deal-box{
     display: inline-block;
+    text-align: center;
+}
+
+.arrows{
     text-align: center;
 }
