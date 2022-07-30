@@ -14,8 +14,10 @@ section{
 .deal-box{
     display: inline-block;
     text-align: center;
+    max-width: 200px;
 }
 
 .arrows{
     text-align: center;
 }
+
