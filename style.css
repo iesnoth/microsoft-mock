@@ -1,0 +1,14 @@
+.icon{
+    display: inline-block;
+}
+.icons{
+    text-align: center;
+}
+section{
+    display: inline-block;
+    text-align: center;
+}
+.deal-box{
+    display: inline-block;
+    text-align: center;
+}
